@@ -15,12 +15,12 @@
 
 <br /><br />
 
-I'm Rayan Sheikh. A Computer Science student at the University of Aberdeen in the UK. I am a passionate developer, keen on machine learning, data science and software development. I believe developing software is an art, taking years to master. From thinking of the idea, progressing it, and then developing the solution to a level that is the best for the end user and for future developers is something that I love!
+I'm Rayan Sheikh. A Computer Science student at the University of Aberdeen in the UK. I am a passionate developer, keen on machine learning, data science and software development. I believe developing software is an art, taking years to master. I'm obsessed with the process of software development. From thinking of the idea, progressing it, and then developing the solution to a level that is the best for the end user and for future developers is something that I love to do!
 
 
 ### Stats
 
-<p height="180em"> <img src="https://github-readme-stats.vercel.app/api?username=rayansheikh01&count_private=true&show_icons=true&theme=gotham&hide_rank=false" alt="rayansheikh01" />
-<p height="180em"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansheikh01&count_private=true&layout=compact&show_icons=true&theme=gotham" alt="rayansheikh01"/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=rayansheikh01&count_private=true&show_icons=true&theme=gotham&hide_rank=false" alt="rayansheikh01" />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansheikh01&count_private=true&layout=compact&show_icons=true&theme=gotham" alt="rayansheikh01"/>
 
 
