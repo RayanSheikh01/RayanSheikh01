@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Resume](https://github.com/RayanSheikh01/RayanSheikh01/Resume.pdf)
+![Resume](https://github.com/RayanSheikh01/RayanSheikh01/blob/main/Resume.pdf)
 
 <a href="https://www.instagram.com/rayan_sheikh02/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
