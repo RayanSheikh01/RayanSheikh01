@@ -2,7 +2,7 @@
 
 <a href="https://github.com/RayanSheikh01/RayanSheikh01/blob/main/Resume.pdf">Resume</a>
 
-<a href="https://www.instagram.com/rayan_sheikh02/">
+<a href="https://www.instagram.com/rayansheikh_02/">
   <img align="left" alt="Rayan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discordapp.com/users/754124101479563344">
