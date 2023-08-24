@@ -8,9 +8,6 @@
 <a href="https://discordapp.com/users/754124101479563344">
   <img align="left" alt="Rayan's Discord Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/RayanSheikh121">
-  <img align="left" alt="Rayan Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/rayan-sheikh">
   <img align="left" alt="Rayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
