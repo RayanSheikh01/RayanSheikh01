@@ -6,10 +6,10 @@
   <img align="left" alt="Rayan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discordapp.com/users/754124101479563344">
-  <img align="left" alt="Rayan's Discord Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Rayan's Discord Profile" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.linkedin.com/in/rayan-sheikh">
-  <img align="left" alt="Rayan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rayan's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br /><br />
