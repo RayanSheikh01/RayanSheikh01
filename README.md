@@ -14,7 +14,7 @@
 
 <br /><br />
 
-I'm Rayan Sheikh. A Computer Science student at Newcastle University in the UK. I am a passionate developer, keen on machine learning, data science and software development. I believe developing software is an art, taking years to master. I'm obsessed with the process of software development. From thinking of the idea, progressing it, and then developing the solution to a level that is the best for the end user and for future developers is something that I love to do! I am also a strong believer of lifelong learning!
+I'm Rayan Sheikh. A Computer Science student at University of Westminster in the UK. I am a passionate developer, keen on machine learning, data science and software development. I believe developing software is an art, taking years to master. I'm obsessed with the process of software development. From thinking of the idea, progressing it, and then developing the solution to a level that is the best for the end user and for future developers is something that I love to do! I am also a strong believer of lifelong learning!
 
 
 ### Stats
