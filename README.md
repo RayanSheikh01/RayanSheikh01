@@ -9,7 +9,7 @@
   <img align="left" alt="Rayan's Discord Profile" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://www.linkedin.com/in/rayan-sheikh">
-  <img align="left" alt="Rayan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg
+  <img align="left" alt="Rayan's LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png/jcr:content/renditions/brandg-business-in-logo-dsk-v03-2x.png
 " />
 </a>
 
