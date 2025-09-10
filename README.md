@@ -14,7 +14,7 @@
 
 <br /><br />
 
-I'm Rayan Sheikh, a Computer Science student at the University of Westminster in the UK. I am a passionate developer with a strong interest in machine learning, data science and software development. I see software development as an art that takes years to master and I am deeply fascinated by the entire process - from conceptualising an idea, refining it and developing a solution to a level that delivers the best experience for users and is maintainable for future developers. I am also a strong advocate of lifelong learning and continually seek opportunities to grow my skills.
+I’m Rayan Sheikh, a Computer Science student at the University of Westminster in the UK. I am a passionate developer with a strong interest in cybersecurity, ethical hacking and secure software development. I see cybersecurity as both a science and an art, requiring careful analysis, creative problem-solving and meticulous attention to detail to protect systems and data from evolving threats. I am fascinated by the entire process - from identifying vulnerabilities and conceptualising secure solutions to implementing robust systems that safeguard users and maintain long-term reliability. I am also a strong advocate of lifelong learning and continually seek opportunities to expand my skills in cybersecurity and related technologies.
 
 
 ### Stats
