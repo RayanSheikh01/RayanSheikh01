@@ -2,16 +2,6 @@
 
 <a href="https://github.com/RayanSheikh01/RayanSheikh01/blob/main/Rayan_Sheikh_CV.pdf">CV</a>
 
-<a href="https://www.instagram.com/rayansheikh_02/">
-  <img align="left" alt="Rayan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discordapp.com/users/754124101479563344">
-  <img align="left" alt="Rayan's Discord Profile" width="22px" src="https://cdn.simpleicons.org/discord" />
-</a>
-<a href="https://www.linkedin.com/in/rayan-sheikh">
-  <img align="left" alt="Rayan's LinkedIn" width="22px" src="https://github.com/RayanSheikh01/RayanSheikh01/blob/main/LinkedInLogo.png" />
-</a>
-
 <br /><br />
 
 I’m Rayan Sheikh, a Computer Science student at the University of Westminster in the UK. I am a passionate developer with a strong interest in cybersecurity, ethical hacking and secure software development. I see cybersecurity as both a science and an art, requiring careful analysis, creative problem-solving and meticulous attention to detail to protect systems and data from evolving threats. I am fascinated by the entire process - from identifying vulnerabilities and conceptualising secure solutions to implementing robust systems that safeguard users and maintain long-term reliability. I am also a strong advocate of lifelong learning and continually seek opportunities to expand my skills in cybersecurity and related technologies.
