@@ -1,15 +1,15 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://github.com/RayanSheikh01/RayanSheikh01/blob/main/Rayan_Sheikh_CV.pdf">CV</a>
-
+<a href="https://github.com/RayanSheikh01/RayanSheikh01/blob/main/Rayan_Sheikh_CV.pdf">CV</a> · <a href="https://rayansheikh.com">rayansheikh.com</a> · <a href="mailto:rayansheikh121@gmail.com">rayansheikh121@gmail.com</a>
 <br /><br />
+I'm Rayan Sheikh. I graduated with a First in Computer Science from the University of Westminster and I'm starting an MSc in Cyber Security at King's College London this September.
 
-I’m Rayan Sheikh, a Computer Science student at the University of Westminster in the UK. I am a passionate developer with a strong interest in cybersecurity, ethical hacking and secure software development. I see cybersecurity as both a science and an art, requiring careful analysis, creative problem-solving and meticulous attention to detail to protect systems and data from evolving threats. I am fascinated by the entire process - from identifying vulnerabilities and conceptualising secure solutions to implementing robust systems that safeguard users and maintain long-term reliability. I am also a strong advocate of lifelong learning and continually seek opportunities to expand my skills in cybersecurity and related technologies.
+My interest sits where security meets software engineering - finding vulnerabilities, designing systems that hold up under pressure and building the tooling that makes both easier. Most of my recent work has been on the security of AI agents and the MCP ecosystem: traffic inspection, adversarial evaluation and red-teaming tools for agentic systems.
+<br /><br />
+<b>Currently</b>
+<ul>
+<li>Sitting CompTIA Security+ (SY0-701) this month</li>
+<li>Building security tooling for AI agents - MCP traffic inspection, agent red-teaming, adversarial evaluation harnesses</li>
+<li>Prepping my MSc dissertation project at KCL</li>
+</ul>
 
-
-### Stats
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=rayansheikh01&count_private=true&show_icons=true&theme=gotham&hide_rank=false" alt="rayansheikh01" />
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayansheikh01&count_private=true&layout=compact&show_icons=true&theme=gotham" alt="rayansheikh01"/>
-
-
+<b>Tools I reach for:</b> Python · JavaScript / TypeScript · C · Java · SQL · Node.js · React · Git
