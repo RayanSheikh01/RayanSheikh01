@@ -13,3 +13,6 @@ My interest sits where security meets software engineering - finding vulnerabili
 </ul>
 
 <b>Tools I reach for:</b> Python · JavaScript / TypeScript · C · Java · SQL · Node.js · React · Git
+
+### Stats
+<p> <img src="https://ghstats.dev/api/card?username=rayansheikh01&hide=hours%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cgrade" alt="GitHub Stats Card" />
